@@ -41,7 +41,7 @@
     <published>2017-12-02T11:15:16.000Z</published>
     <updated>2017-12-03T07:10:49.946Z</updated>
     
-    <content type="html"><![CDATA[<p>依旧不懂<br><a id="more"></a><br>dasd</p>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>依旧不懂<br><a id="more"></a><br>dasd</p>]]></content>
     
     <summary type="html">
     
