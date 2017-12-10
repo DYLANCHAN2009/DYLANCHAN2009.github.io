@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-07T10:52:36.725Z</updated>
+  <updated>2017-12-10T02:40:06.860Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -17,13 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>咪咕爱看Redesign</title>
+    <link href="http://yoursite.com/2017/12/10/%E5%92%AA%E5%92%95%E7%88%B1%E7%9C%8BRedesign/"/>
+    <id>http://yoursite.com/2017/12/10/咪咕爱看Redesign/</id>
+    <published>2017-12-10T02:18:42.000Z</published>
+    <updated>2017-12-10T02:40:06.860Z</updated>
+    
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>第一次做redesign 来一个总结<br><a id="more"></a></p><p><ol></ol></p><p><li>设计思维乱，没有一个清晰的逻辑。这也涉及到自己的学习方法需要改进</li></p><p><li>对问题的定义较散，没有从整体的角度去分析，仅仅抓住产品的特点去设计「比如爱看福利botton，是否真的会提高用户点击率，又或者用户只想以最快速的方式获得每日签到的福利（突然想起可以参考百度贴吧的每日签到有弹窗广告）</li></p><p><li>界面上对细节的把握，视觉重心是否偏离了 图标的识别性 符合交互逻辑等</li><br><br>—<br><img src="http://p0c2sijh7.bkt.clouddn.com/ZK-08.jpg"><br><img src="http://p0c2sijh7.bkt.clouddn.com/ZK-09.jpg"><br><img src="http://p0c2sijh7.bkt.clouddn.com/ZK-10.jpg"><br><img src="http://p0c2sijh7.bkt.clouddn.com/ZK-11.jpg"><br><img src="http://p0c2sijh7.bkt.clouddn.com/ZK-12.jpg"></p>]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;第一次做redesign 来一个总结&lt;br&gt;
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
     <title>图标设计总结</title>
     <link href="http://yoursite.com/2017/12/02/%E5%9B%BE%E6%A0%87%E8%AE%BE%E8%AE%A1%E6%80%BB%E7%BB%93/"/>
     <id>http://yoursite.com/2017/12/02/图标设计总结/</id>
     <published>2017-12-02T11:37:26.000Z</published>
-    <updated>2017-12-07T10:52:36.725Z</updated>
+    <updated>2017-12-10T02:19:48.740Z</updated>
     
-    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>坚持了三个月即使进步不大 而这仅仅只是一个开始！<br><a id="more"></a></p><p>把之前做的图标给SA大看 SA大是这么回复我的 ：能看出你的技法能力还是不错的，主要问题是作品大多没有自己的理解只能表面的去临摹。原创作品中偶有一些不错的设计亮点，但是不太稳定，无法保持保质量的稳定输出。推荐你可以去看一下金字塔原理这本书，从思维方式上改变自己的设计方式和想法。” 作品大多没有自己的理解只能表面的去临摹。一针见血好本质的问题，自己做图标的时候也意识到这点只是从表面的形式去想而没有深入挖掘（内心OS：即使意识到了也不知道怎么去改变 也许是基础的原因未能领悟到）换个说法就是没有很好的消化图标只是一味的做 一味的临摹。<br>—<br>经过三个月的洗礼结合自己的问题今后的图标练习将从几个方面入手</p><p><ol></ol></p><p><li>依旧是临摹大量的图标找准一种风格以及表现形式进行大量临摹（Filled Icons）</li></p><p><li>先设计出图形的造型（视觉比例 结构关系 整体统一）</li></p><p><li>整体把握好造型 色彩两大纲</li><br><br>—<br>百图记的主要练习风格「 线性、描边、扁平色块、轻质感、拟物」</p>]]></content>
+    <content type="html"><![CDATA[<script src="/assets/js/APlayer.min.js"> </script><p>坚持了三个月即使进步不大 而这仅仅只是一个开始！<br><a id="more"></a></p><p>把之前做的图标给SA大看 SA大是这么回复我的 ：能看出你的技法能力还是不错的，主要问题是作品大多没有自己的理解只能表面的去临摹。原创作品中偶有一些不错的设计亮点，但是不太稳定，无法保持保质量的稳定输出。推荐你可以去看一下金字塔原理这本书，从思维方式上改变自己的设计方式和想法。” 作品大多没有自己的理解只能表面的去临摹。一针见血好本质的问题，自己做图标的时候也意识到这点只是从表面的形式去想而没有深入挖掘（内心OS：即使意识到了也不知道怎么去改变 也许是基础的原因未能领悟到）换个说法就是没有很好的消化图标只是一味的做 一味的临摹。<br>—<br>经过三个月的洗礼结合自己的问题今后的图标练习将从几个方面入手</p><p><ol></ol></p><p><li>依旧是临摹大量的图标找准一种风格以及表现形式进行大量临摹（Filled Icons）</li></p><p><li>先设计出图形的造型（视觉比例 结构关系 整体统一）</li></p><p><li>整体把握好造型 色彩两大纲</li><br><br>—<br>百图记的主要练习风格「 线性、描边、扁平色块、轻质感、拟物」<br><a href="http://dylan993.lofter.com/" target="_blank" rel="noopener">http://dylan993.lofter.com/</a></p>]]></content>
     
     <summary type="html">
     
@@ -31,6 +49,8 @@
     
     </summary>
     
+    
+      <category term="ICON" scheme="http://yoursite.com/tags/ICON/"/>
     
   </entry>
   
